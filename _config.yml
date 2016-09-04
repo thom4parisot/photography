@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: oncletom.io
+subtitle: Photography series about *travels* and *human experience*.
 description:
-author: John Doe
-language:
-timezone:
+author: Thomas Parisot
+language: en-GB
+timezone: Europe/London
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://oncletom.io/photography
-root: /
-permalink: :year/:month/:title/
+root: /photography/
+permalink: :title/
 permalink_defaults:
 
 # Directory
@@ -29,12 +29,12 @@ skip_render:
 
 # Writing
 new_post_name: :title.md # File name of new posts
-default_layout: post
+default_layout: series
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -45,8 +45,8 @@ highlight:
 
 # Category & Tag
 default_category: uncategorized
-category_map:
-tag_map:
+category_map: {}
+tag_map: {}
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
@@ -63,7 +63,19 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: ../node_modules/hexo-theme-oncletom
+
+nunjucks:
+  autoescape: true
+  throwOnUndefined: false
+  watch: false
+
+disqus_shortname: oncletom
+
+graph:
+  google_plus:    ~
+  facebook:       ~
+  twitter:        oncletom
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

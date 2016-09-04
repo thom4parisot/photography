@@ -35,3 +35,7 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+db.json
+!node_modules/hexo
+!node_modules/hexo-renderer-react
