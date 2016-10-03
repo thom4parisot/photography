@@ -2,7 +2,7 @@ language: node_js
 node_js: v6
 sudo: false
 addons:
-  ssh_known_hosts: github.com
+  ssh_known_hosts: ssh-oncletom.alwaysdata.net
   apt_packages:
   - graphicsmagick
 script: NODE_ENV=production npm run build
