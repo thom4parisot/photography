@@ -1,0 +1,21 @@
+language: node_js
+node_js: v6
+sudo: false
+addons:
+  ssh_known_hosts: github.com
+  apt_packages:
+  - graphicsmagick
+script: NODE_ENV=production npm run build
+before_deploy:
+- openssl aes-256-cbc -K $encrypted_5fb17c43f971_key -iv $encrypted_5fb17c43f971_iv -in id_rsa.enc -out /tmp/id_rsa -d
+- eval "$(ssh-agent -s)"
+- chmod 600 /tmp/id_rsa
+- ssh-add /tmp/id_rsa
+- git config --global user.email "build@travis-ci.org"
+- git config --global user.name "Travis CI"
+deploy:
+  provider: script
+  script: npm run deploy
+  skip_cleanup: true
+  on:
+    branch: master
