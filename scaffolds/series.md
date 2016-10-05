@@ -1,25 +1,28 @@
 ---
 title: {{ title }}
-subtitle: {{ subtitle }}
 date: {{ date }}
-description: |
-
+description: ~
 language: en-GB
-layout: series
+layout: series-default
+cover: ~
 tags:
 - photography
 categories:
+- N/C
 device:
   model: iPod (5th generation)
   manufacturer: Apple
+film:
+  speed: ~
+  model: ~
+  manufacturer: ~
 pictures:
-  - title:
-    location:
+  - location:
       venue:
+      city:
       region:
       country:
     src:
-      img:
-      audio:
-      video:
+    comment: >
+      ~
 ---
