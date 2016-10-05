@@ -39,4 +39,4 @@ pictures:
 
 ---
 
-[Crossness pumping station](https://en.wikipedia.org/wiki/Crossness_Pumping_Station) is a jewel of Victorian architecture. It will take you _half a Eurostar journey_ to reach it by public transportations.
+[Crossness pumping station](https://en.wikipedia.org/wiki/Crossness_Pumping_Station) is a jewel of Victorian architecture. It will take you _half the duration of a Eurostar journey_ to reach it by public transportations.

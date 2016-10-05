@@ -94,4 +94,4 @@ pictures:
 
 ---
 
-A diverse region balanced between the moist of the *Pacific* and the dryness of the desert… not to mention the [Cascades](https://en.wikipedia.org/wiki/Cascade_Range) and its volcanic chain as well as its *hip* city, Portland!
+A region balanced between the moist of the *Pacific* and the dryness of the desert… not to mention the [Cascades](https://en.wikipedia.org/wiki/Cascade_Range) and its volcanic chain as well as its *hip* city, Portland!
