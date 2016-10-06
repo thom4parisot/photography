@@ -113,16 +113,16 @@ pictures:
       city: Hara
       region: Harju County
     comment: |-
-      The day I observed swans bathing in ponds formed of sea water.
+      The day I observed swans bathing in ponds formed by frozen sea water.
 
-      I still have 5 kilometres to go to catch a bus before the sun declines too much.
+      I still have 5 kilometres to go to catch a bus before dusk takes over.
   - src: CNV00117.jpg
     date: 2016-03-19
     location:
       city: Loksa
       region: Harju County
     comment: >
-      I missed the bus because I misread the timetable. I have to wait 40 minutes before the next one, at dusk.
+      I missed the bus because I misread the timetable. I have to wait 40 minutes more before the next one.
 
 
       These blokes drank beer this entire time, thirsty as if they were
@@ -141,7 +141,7 @@ pictures:
     comment: |
       It is so cold it took me 30 minutes to fold my tent.
 
-      People don't camp by these temperatures, nor their hike on long distance either.
+      People don't camp by these temperatures, nor their hike on long distances either.
   - src: CNV00010.jpg
     date: 2016-03-20
     location:
@@ -166,9 +166,9 @@ pictures:
       city: Aegviidu
       region: Harju County
     comment: |
-      Temperatures are gowing to dive below -8°C so I decide to stop and to take a train to Tartu.
+      Temperatures are gowing to dive below -8°C tonight so I decide to stop the outdoor adventure and go to Tartu instead.
 
-      The next one is in 30 minutes, then _4 hours_. Sadly for me, I was waiting on the wrong platform and missed the train. I will have to go back to Tallinn to then be able to go to Tartu.
+      The next train is in 30 minutes, then in _4 hours_. Sadly for me, I was waiting on the wrong platform: 30 seconds to board is not enough! I will have to go back to Tallinn to then be able to go to Tartu.
 
       PS: I love the logo of their [railway company](https://en.wikipedia.org/wiki/Eesti_Raudtee)!
   - src: CNV00305.jpg
@@ -193,7 +193,7 @@ pictures:
       city: Tartu
       region: Tartu County
     comment: >
-      Today I do not want to walk but I cannot stop enjoying
+      Today I do not want to walk but I can't stop enjoying
       the various gems of architecture, and colours, and the light…
   - src: CNV00319.jpg
     date: 2016-03-22
@@ -218,7 +218,7 @@ pictures:
       region: Viljandi County
     comment: >
       Three kilometres to go before arriving to my shelter: a small house
-      by the lake, with a fireplace. I will treat myself with noodles.
+      by the lake with a fireplace. I will treat myself with noodles.
   - src: CNV00423.jpg
     date: 2016-03-23
     location:
@@ -271,7 +271,7 @@ pictures:
       city: Viljandi
       region: Viljandi County
     comment: |-
-      The last ray of lights of the day of my last day in Estonia.
+      The last ray of lights of my last day in Estonia.
 
       And Benoit just sent me an email.
 ---
