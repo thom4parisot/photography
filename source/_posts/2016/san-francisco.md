@@ -8,10 +8,10 @@ tags:
 device:
   model: R3
   manufacturer: Leica
-film:
-  speed: 50
-  model: PAN F PLUS
-  manufacturer: Ilford
+  film:
+    speed: 50
+    model: PAN F PLUS
+    manufacturer: Ilford
 date: 2016-08-03 18:09:37
 cover: 02400001.jpg
 categories:

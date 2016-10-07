@@ -9,10 +9,10 @@ categories:
 device:
   model: Mat-124G
   manufacturer: Yashica
-film:
-  speed: 100
-  model: Ektar
-  manufacturer: Kodak
+  film:
+    speed: 100
+    model: Ektar
+    manufacturer: Kodak
 date: 2016-03-16
 description:
 cover: CNV00005.jpg
