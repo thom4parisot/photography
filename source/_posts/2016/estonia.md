@@ -80,7 +80,7 @@ pictures:
       region: Harju County
     comment: >
       A cemetery in a forest.
-      Accompanied with slow blasts and burts of sunlight.
+      Accompanied with snow blasts and burts of sunlight.
   - src: CNV00004.jpg
     date: 2016-03-19
     location:
