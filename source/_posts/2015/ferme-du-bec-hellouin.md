@@ -30,7 +30,7 @@ pictures:
     comment: |-
       First contact with the soil and the vegetables it hosts.
 
-      March is a transitional season as we move towards preparing summer crops.
+      March is a transitional season as we gradually clear out winter beds and move towards preparing summer crops.
   - src: 10160005.jpg
     date: 2015-03-17
     location:
@@ -62,7 +62,7 @@ pictures:
       region: Normandy
       country: France
     comment: >
-      The soil gets covered to protect it from the cold but also to stimulates organic life and attract worms to upper layers.
+      The soil gets covered to protect it from the cold but also to stimulate organic life and to attract worms to upper layers.
   - src: 10220001.jpg
     date: 2015-03-19
     location:
@@ -83,27 +83,27 @@ pictures:
       region: Normandy
       country: France
     comment: |-
-      The week is already over. The group disbands in a relaxed ambiance, the heart filled with energy and a will to bring the newly acquired knowledge back to our home.
+      The week is already over. The group disbands in a relaxed ambiance, the heart filled with energy and a will to bring the newly acquired knowledge back to our homes.
 
-      I want to come here again, practice and grow my own vegs for sure.
+      I have the feeling growing my own vegs is a natural thing to do, and a great way to sought for tranquility.
   - src: CNV00012.jpg
     date: 2016-06-05
     location:
       region: Normandy
       country: France
     comment: |-
-      A year later, I am back to the farm!
+      A year later.
 
-      I take some time to explore the surroundings. Le *Bec-Hellouin* is a protected village due to its [ancient (and gorgeous) abbey](https://en.wikipedia.org/wiki/Bec_Abbey).
+      I take some time to explore the surroundings. Le *Bec-Hellouin* is a listed village due to its [ancient (and gorgeous) abbey](https://en.wikipedia.org/wiki/Bec_Abbey).
   - src: CNV00015.jpg
     date: 2016-06-06
     location:
       region: Normandy
       country: France
     comment: |-
-      The location has changed in a year time, and it now a different season of the year. It is actually quite warm and sunny. Very different from springtide.
+      The disposition of the farm has changed in a year time, especially as it it is now a different season of the year. It is actually quite warm and sunny. Very different from early springtide.
 
-      Nature is flourishing; green is everywhere and we are all eager to get our hands dirty!
+      Nature is flourishing; the green colour is omnipresent and we are all eager to get our hands dirty!
   - src: CNV00019.jpg
     date: 2016-06-06
     location:
@@ -117,16 +117,16 @@ pictures:
       region: Normandy
       country: France
     comment: |-
-      [Marc](http://terreenciel.blogspot.co.uk/) is a wizard of the soil and wild plants. He shows us how to analyse a soil and see its composition.
+      [Marc](http://terreenciel.blogspot.co.uk/) is a wizard of the soil and wild plants. He shows us how to analyse it and to observe its composition.
 
-      This is useful to help seed the right species at relevant spots of the land.
+      This is useful to help seed the right species in a soil structure they can accommodate with.
   - src: CNV00025.jpg
     date: 2016-06-07
     location:
       region: Normandy
       country: France
     comment: |-
-      This is what a good compost looks like. Clean, light and airy.
+      This is what a good humus looks like. Clean, light and airy.
 
       I do not know why, but it smells good and looks like the right colour.
   - src: CNV00032.jpg
@@ -142,7 +142,7 @@ pictures:
       region: Normandy
       country: France
     comment: >
-      One of my favourite thing is the cultures combination: a good use of time and space as well as nutrions interactions between the plants!
+      One of my favourite thing is crops combination: a good use of time and space as well as nutrions interactions between the plants!
   - src: CNV00035.jpg
     date: 2016-06-08
     location:
@@ -173,14 +173,18 @@ pictures:
       region: Normandy
       country: France
     comment: >
-      A wild plant potion. Once diluted in water and spread over plants, this one will heal them from mushrooms.
+      A wild plant potion. Once diluted in water and spread over plants, it will heal them from mushrooms.
   - src: CNV00052.jpg
     date: 2016-06-10
     location:
       region: Normandy
       country: France
-    comment: >
-      We harvest wild plants to create a new potion. It will naturally prevent crops to be eaten by various insects.
+    comment: |-
+      We harvest wild plants to create a new potion. This one will naturally prevent crops to be eaten by various insects.
+
+      Nature already provides everything to fertilise and protect it from insects and disease.
+
+      Wild plants is my strongest take-away from this second week at the farm.
 ---
 
 This [farm](http://www.fermedubec.com/en/) is a pioneer of [permaculture](https://en.wikipedia.org/wiki/Permaculture) in France. This is where I got to learn the theory and practice of these environment and human friendly principles.
