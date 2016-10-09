@@ -5,8 +5,10 @@
 # Site
 title: oncletom.io
 subtitle: Photography series about *travels* and *human experience*.
-description: Site description
+description: "Hey, I'm Thomas! A french web engineer living in London, UK. I love combining analog and digital when it comes about photography and I ought to blend more narrative research over time."
 author: Thomas Parisot
+email: hi@oncletom.io
+default_cover: /images/thomas-parisot.jpg
 language: en-GB
 timezone: Europe/London
 
