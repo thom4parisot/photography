@@ -86,15 +86,20 @@ pictures:
       The week is already over. The group disbands in a relaxed ambiance, the heart filled with energy and a will to bring the newly acquired knowledge back to our homes.
 
       I have the feeling growing my own vegs is a natural thing to do, and a great way to sought for tranquility.
+
+  - comment: |-
+      A year and three months later. Time to learn again.
+
+      The same place but different. A different season.
+      I travel [like Chris Marker](http://chrismarker.org/chris-marker-2/wounded-time/).
+
   - src: CNV00012.jpg
     date: 2016-06-05
     location:
       region: Normandy
       country: France
     comment: |-
-      A year later.
-
-      I take some time to explore the surroundings. Le *Bec-Hellouin* is a listed village due to its [ancient (and gorgeous) abbey](https://en.wikipedia.org/wiki/Bec_Abbey).
+      This time I make sure to explore the surroundings. Le *Bec-Hellouin* is a listed village due to its [ancient (and gorgeous) abbey](https://en.wikipedia.org/wiki/Bec_Abbey).
   - src: CNV00015.jpg
     date: 2016-06-06
     location:
