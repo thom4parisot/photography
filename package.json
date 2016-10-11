@@ -1,6 +1,6 @@
 {
   "name": "@oncletom/photography",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "My personal photography gallery.",
   "main": "index.js",
   "hexo": {
