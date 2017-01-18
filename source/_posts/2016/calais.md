@@ -4,6 +4,7 @@ language: en-GB
 layout: series-default
 date: 2016-11-15 23:00:00
 cover: CNV00016-LR.jpg
+map: overview.png
 tags:
   - photography
   - refugees
@@ -52,6 +53,7 @@ pictures:
       city: Dunkirk
       country: France
     src: CNV00004-LR.jpg
+    map: grande-sinthe.png
     comment: |
       ~
   - location:
@@ -115,6 +117,7 @@ pictures:
       city: Dunkirk
       country: France
     src: CNV00020-LR.jpg
+    map: library.png
     comment: |
       ~
   - location:
@@ -150,15 +153,18 @@ pictures:
       city: Dunkirk
       country: France
     src: CNV00013-LR.jpg
+    map: volunteers-area.png
     comment: |
       ~
   - comment: |
-      Blah
+      Entre dunkerque et Calais
+    map: dunkirk-to-calais.png
   - location:
       venue: La jungle
       city: Calais
       country: France
     src: CNV00036-LR.jpg
+    map: calais-fence.png
     comment: |
       ~
   - location:
@@ -201,6 +207,7 @@ pictures:
       city: Calais
       country: France
     src: CNV00029-LR.jpg
+    map: calais-jungle.png
     comment: |
       ~
   - location:
@@ -222,6 +229,7 @@ pictures:
       city: Calais
       country: France
     src: CNV00025-LR.jpg
+    map: calais.png
     comment: |
       ~
   - location:
