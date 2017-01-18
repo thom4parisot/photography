@@ -11,6 +11,8 @@ tags:
   - volunteering
   - migrants
   - society
+  - calais
+  - dunkirk
 categories:
   - Beyond
 device:
@@ -27,33 +29,41 @@ pictures:
       city: London
       country: England
     src: CNV00009-LR.jpg
-    comment: |
-      ~
+    comment: |-
+      A few minutes after 7am, Friday 21<sup>st</sup> October 2016.
+
+      We are excited to cross the Channel to reach out our native country. Although we _do not know what to expect_ when we arrive in the camps.
   - location:
       city: Dover
       country: England
     src: CNV00008-LR.jpg
     comment: |
-      ~
+      We are the **last car to make it to the ferry**: they closed the boarding ramp right after we turned the engine off.
   - location:
       city: Dover
       country: England
     src: CNV00006-LR.jpg
     comment: |
-      ~
+      We befriend with Jamie as he is sharing the ride as well.
+
+      He is taking a few weeks off to volunteer at Dunkirk's refugees camp. He went there earlier this year but was not prepared for the harsh winter conditions.
+
+      This time he _feels ready_.
   - location:
       venue: English Channel
     src: CNV00005-LR.jpg
     comment: |
-      ~
+      We randomly discover that our ferry is actually heading to Dunkirk, not Calais.
+
+      Because we met Jamie, we decide to give him a hand and to go with him to Dunkirk refugees camp. We will go to Calais tomorrow, with some more experience, knowledge and hopefully confidence.
   - comment: |
       Blah
+    map: grande-sinthe.png
   - location:
       venue: Grande Sinthe
       city: Dunkirk
       country: France
     src: CNV00004-LR.jpg
-    map: grande-sinthe.png
     comment: |
       ~
   - location:
