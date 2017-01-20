@@ -12,10 +12,10 @@ categories:
 device:
   model: iPod (5th generation)
   manufacturer: Apple
-film:
-  speed: ~
-  model: ~
-  manufacturer: ~
+  film:
+    speed: ~
+    model: ~
+    manufacturer: ~
 pictures:
   - location:
       venue:
