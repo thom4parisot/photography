@@ -15,6 +15,7 @@ tags:
   - dunkirk
 categories:
   - Beyond
+  - France
 device:
 - model: Mat-124G
   manufacturer: Yashica

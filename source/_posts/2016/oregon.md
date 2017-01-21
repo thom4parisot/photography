@@ -16,6 +16,7 @@ date: 2016-07-21 18:09:37
 cover: 02350013.jpg
 categories:
 - Travels
+- USA
 pictures:
   -
     src: 02360013.jpg

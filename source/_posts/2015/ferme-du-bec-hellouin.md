@@ -6,6 +6,7 @@ tags:
   - photography
 categories:
   - Permaculture
+  - France
 device:
   - model: Mat-124G
     manufacturer: Yashica

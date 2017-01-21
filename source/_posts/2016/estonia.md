@@ -6,6 +6,7 @@ tags:
   - photography
 categories:
   - Travels
+  - Estonia
 device:
   model: Mat-124G
   manufacturer: Yashica

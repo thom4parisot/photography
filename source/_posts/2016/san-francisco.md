@@ -16,6 +16,7 @@ date: 2016-08-03 18:09:37
 cover: 02400001.jpg
 categories:
 - Travels
+- USA
 pictures:
   -
     date: 2016-08-06
