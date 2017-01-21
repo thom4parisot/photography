@@ -61,7 +61,7 @@ pictures:
       city: Dunkirk
       country: France
     src: CNV00004-LR.jpg
-    map: grande-Synthe.png
+    map: grande-synthe.png
     comment: |
       The ride is now over and we are soon to walk in an unknown place to us.
 
@@ -101,7 +101,7 @@ pictures:
       country: France
     src: CNV00022-LR.jpg
     comment: |
-      Local authorities built and opened this information center inside the camp. They lately realised nobody knew the kurdish language.
+      Local authorities built and opened this information center inside the camp. They lately realised no one could speak in kurdish.
       The center remains closed since.
 
       Wood planks are missing because they have been taken out and used as heating source during the harsh winter.
@@ -116,9 +116,9 @@ pictures:
       country: France
     src: CNV00015-LR.jpg
     comment: |
-      These numbers are to been seen on each shelter.
+      Numbers are to been seen on each shelter.
 
-      _There is no registry_ so the shelter occupation level is one of the only way to know how crowded the camp is.
+      There is _no_ registry so the shelter occupation level is one of the only way to know how crowded the camp is.
   - location:
       venue: Grande Synthe
       city: Dunkirk
@@ -192,7 +192,7 @@ pictures:
 
       _You certainly changed_ the life of a bunch.
   - comment: |
-      It is dusk, and time to make our way to Calais. We hitchhike and get a ride with a lorry driver. We get to know a different viewpoint about the camp, the refugees and the violent incidents reported by journalists in the news.
+      It is dusk, and time to make our way to Calais. We hitchhike and get a ride with a lorry driver. We get to know a different opinion about the camp, the refugees and the violent incidents reported by journalists in the news. He mostly _understands_ and just want his lorry not to be damaged.
 
       We are soon due to arrive. Calais is wrapped in darkness, delimited by a corridor of white fences and the blue flashes of police cars rotating beacons. We can clearly feel the _tension_.
     map: dunkirk-to-calais.png
@@ -203,36 +203,51 @@ pictures:
     src: CNV00036-LR.jpg
     map: calais-fence.png
     comment: |
+      We knew we were close to the _jungle_ as we saw these fences.
+
+      Quiet, standing, still. I wonder _who_ is trapped, on which side.
   - location:
       venue: La jungle
       city: Calais
       country: France
     src: CNV00034-LR.jpg
     comment: |
+      The _jungle_ is about to be demolished in a few days. The entire place feels empty on this Saturday morning.
+
+      Nonetheless, I feel this rainbow to be providential, showing up over two churches: one of concrete, one of faith.
   - location:
       venue: La jungle
       city: Calais
       country: France
     src: 2016-10-22 09.56.00.jpg
     comment: |
+      Volunteers continue to provide school tuitions as long as they can. Tomorrow will probably be their _last day_.
+
+      I felt more fatigue on their faces.
+      They were already _out of_ the place.
   - location:
       venue: La jungle
       city: Calais
       country: France
     src: CNV00033-LR.jpg
     comment: |
+      I love how much effort is put into making the fortune shelters more lively and visually appealing.
+
+      It speaks out so much _hope_ and _dignity_.
   - location:
       venue: La jungle
       city: Calais
       country: France
     src: CNV00032-LR.jpg
-    comment: |
   - location:
       venue: La jungle
       city: Calais
       country: France
     src: CNV00031-LR.jpg
     comment: |
+      A longchair, an umbrella and a kitchen garden.
+
+      Some people managed to make it a rather _singular_ place to live.
   - location:
       venue: La jungle
       city: Calais
@@ -240,24 +255,30 @@ pictures:
     src: CNV00029-LR.jpg
     map: calais-jungle.png
     comment: |
+      Journalists get cautiously inspected by the police force.
+
+      Some of them reported to us spending days in jail in atrocious conditions.
   - location:
       venue: La jungle
       city: Calais
       country: France
     src: 2016-10-22 10.27.05.jpg
-    comment: |
   - location:
       venue: La jungle
       city: Calais
       country: France
     src: CNV00028-LR.jpg
     comment: |
+      At the end of this road, Calais and its _ferry port_.
   - location:
       city: Calais
       country: France
     src: CNV00025-LR.jpg
     map: calais.png
     comment: |
+      These people were so happy to say _bonjour_ to us.
+
+      They probably felt being close to the end of their journey. They would soon being able to reach the UK — a place depicted as a _the_ location to go to start a new life.
   - location:
       city: Dover
       country: England
@@ -267,7 +288,7 @@ pictures:
 
       We did in a day what most people in the camps have tried to do over months and even years for some — crossing the Channel.
 
-      I am glad we helped, even for a day.
+      I am glad we helped, even only for a day.
 ---
 
 I felt it became necessary to go beyond the _mass media_ depiction of the Calais refugees camp. So my friend [Basile](https://basilesimon.fr) and I packed our bags and booked a carpooling.
