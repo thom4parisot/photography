@@ -4,7 +4,7 @@
   "description": "My personal photography gallery.",
   "main": "index.js",
   "hexo": {
-    "version": "3.2.2"
+    "version": "3.3.1"
   },
   "scripts": {
     "build": "hexo generate --verbose",
