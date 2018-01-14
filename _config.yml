@@ -52,8 +52,8 @@ default_category: uncategorized
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
-time_format: HH:mm:ss
+date_format: MM.YYYY
+time_format: H:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -70,6 +70,31 @@ nunjucks:
   autoescape: true
   throwOnUndefined: false
   watch: false
+
+markdown:
+  render:
+    html: true
+    xhtmlOut: false
+  anchors:
+    level: 2
+    collisionSuffix: 'v'
+    permalink: false
+    permalinkClass: header-anchor
+    # permalinkSymbol: ¶
+  plugins:
+  - markdown-it-abbr
+  - markdown-it-attrs
+  - markdown-it-footnote
+  - markdown-it-ins
+  - markdown-it-sub
+  - markdown-it-sup
+# Content Indexing
+## See https://www.npmjs.com/package/hexo-algolia
+algolia:
+  applicationID: 'QIP7Z1PL3B'
+  apiKey: '5caf0f682ba8349e8a67872b9edde3f3'
+  indexName: 'prod_blog'
+  chunkSize: 5000
 
 disqus_shortname: oncletom
 
