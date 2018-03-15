@@ -42,3 +42,5 @@ date: 2018-02
 description:
 cover: 92880010.jpg
 ---
+
+The very beginning of the North Norfolk Area of Outstanding Beauty.
