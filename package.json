@@ -36,6 +36,8 @@
   "devDependencies": {
     "each-async": "^1.1.1",
     "gm": "^1.23.0",
+    "imagemin": "^5.3.1",
+    "imagemin-mozjpeg": "^7.0.0",
     "nodemon": "^1.17.2"
   },
   "keywords": [

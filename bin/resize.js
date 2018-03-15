@@ -1,9 +1,17 @@
 #! /usr/bin/env node
 
 const gm = require('gm');
+const {promisify} = require('util');
+const writeFile = promisify(require('fs').writeFile);
 const each = require('each-async');
+const imagemin = require('imagemin');
+const imageminMozJPEG = require('imagemin-mozjpeg');
 
 const [,, maxSize, ...files] = process.argv;
+
+const compress = (buffer) => {
+  return imagemin.buffer(buffer, { plugins: [imageminMozJPEG()] });
+}
 
 each(files, (filepath, index, next) => {
   gm(filepath)
@@ -12,9 +20,20 @@ each(files, (filepath, index, next) => {
         gm(filepath)
           .resize(maxSize, maxSize, '>')
           .noProfile()
-          .write(filepath, err => {
-            console.log(`${err ? '✘' : '✔'} ${filepath}`);
-            next();
+          .toBuffer((err, buffer) => {
+            if (err) {
+              console.log(`✘ ${filepath}`);
+              return next();
+            }
+
+            compress(buffer)
+              .then(buffer => writeFile(filepath, buffer))
+              .then(() => console.log(`✔ ${filepath}`))
+              .then(() => next())
+              .catch(err => {
+                console.log(`✘ ${filepath}`);
+                next(err);
+              });
           });
       }
       else {
