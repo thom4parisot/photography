@@ -6,8 +6,6 @@ addons:
   ssh_known_hosts: ssh-oncletom.alwaysdata.net
   apt_packages:
   - graphicsmagick
-  - autoconf
-  - libtool
   - nasm
 
 cache:

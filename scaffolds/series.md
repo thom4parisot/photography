@@ -8,14 +8,14 @@ cover: ~
 tags:
 - photography
 categories:
-- N/C
+- Travels
 device:
-  model: iPod (5th generation)
-  manufacturer: Apple
+  model: Mat-124G
+  manufacturer: Yashika
   film:
-    speed: ~
-    model: ~
-    manufacturer: ~
+    speed: 160
+    model: Portra
+    manufacturer: Kodak
 pictures:
   - location:
       venue:
