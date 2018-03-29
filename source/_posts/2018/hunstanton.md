@@ -38,6 +38,28 @@ pictures:
       These two are always up for a walk.
 
       Even when "just a quick one" turns into half a day in the outdoors.
+  - location:
+      region: Norfolk
+      country: England
+    src: 06880001.jpg
+  - location:
+      region: Norfolk
+      country: England
+    src: 06880003.jpg
+    comment: |
+      Making our way through the grazing fields.
+  - location:
+      region: Norfolk
+      country: England
+    src: 06880002.jpg
+    comment: |
+      A sea of holiday resort bungalows waiting for their next holiday tenants.
+  - location:
+      region: Norfolk
+      country: England
+    src: 06880005.jpg
+    comment: |
+      An advertisement for Kings Lynn circus. Or a telephone booth. Or both.
 date: 2018-02
 description:
 cover: 92880010.jpg
