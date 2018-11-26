@@ -13,7 +13,9 @@
     "precommit": "npm run resize && git add $(git diff --cached --name-only '*.jpg')",
     "resize": "./bin/resize.js 940 $(git diff --cached --name-only '*.jpg')",
     "start": "nodemon --ignore db.json ./node_modules/.bin/hexo server --debug",
-    "test": "exit 0"
+    "test": "exit 0",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "dependencies": {
     "babel": "^6.5.2",
@@ -33,7 +35,8 @@
     "hexo-renderer-markdown-it": "^3.4.1",
     "hexo-server": "^0.3.3",
     "hexo-theme-oncletom": "github:oncletom/hexo-theme",
-    "markdown-it-attrs": "^1.2.1"
+    "markdown-it-attrs": "^1.2.1",
+    "snyk": "^1.110.2"
   },
   "devDependencies": {
     "each-async": "^1.1.1",
@@ -49,5 +52,6 @@
     "series"
   ],
   "author": "Thomas Parisot (https://oncletom.io)",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "snyk": true
 }
