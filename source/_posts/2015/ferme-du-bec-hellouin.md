@@ -21,7 +21,7 @@ device:
     #  model: "?"
     #  manufacturer: "?"
 date: 2015-03-15
-cover: 10160005.jpg
+image: 2015/ferme-du-bec-hellouin/10160005.jpg
 pictures:
   - src: 10160003.jpg
     date: 2015-03-16

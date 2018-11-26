@@ -16,7 +16,7 @@ device:
     manufacturer: Kodak
 date: 2018-03
 description: A small town surrounded by an outstanding beauty.
-cover: 06890004.jpg
+image: 2018/swanage/06890004.jpg
 pictures:
 - src: 06880009.jpg
   location:

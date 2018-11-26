@@ -49,7 +49,7 @@ pictures:
       Not included on the picture: strong and continous guts of wind.
 date: 2017-12
 description:
-cover: 92880002.jpg
+image: 2017/le-croisic/92880002.jpg
 ---
 
 When it's about New Year's Eve, the quieter, the better.

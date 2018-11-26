@@ -62,7 +62,7 @@ pictures:
       An advertisement for Kings Lynn circus. Or a telephone booth. Or both.
 date: 2018-02
 description:
-cover: 92880010.jpg
+image: 2018/hunstanton/92880010.jpg
 ---
 
 The very beginning of the North Norfolk Area of Outstanding Beauty.

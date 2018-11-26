@@ -76,7 +76,7 @@ pictures:
       At last, something different from the usual postcard views.
 date: 2017-09
 description:
-cover: 28590011.jpg
+image: 2017/prague/28590011.jpg
 ---
 
 I made to Prague from London via France and Germany, by train then bus.

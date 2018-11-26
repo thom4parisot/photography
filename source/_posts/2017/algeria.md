@@ -15,7 +15,7 @@ device:
     model: Portra
     manufacturer: Kodak
 date: 2017-03-18 00:00:00
-cover: 29400010.jpg
+image: 2017/algeria/29400010.jpg
 pictures:
   - location:
       city: Sidi Fredj

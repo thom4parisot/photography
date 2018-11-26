@@ -3,7 +3,7 @@ title: One day in Calais
 language: en-GB
 layout: series-default
 date: 2016-11-15 23:00:00
-cover: CNV00016-LR.jpg
+image: 2016/calais/CNV00016-LR.jpg
 map: overview.png
 tags:
   - photography

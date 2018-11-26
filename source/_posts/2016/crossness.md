@@ -3,7 +3,7 @@ title: Crossness
 description: ''
 language: en-GB
 layout: series-default
-cover: CNV00011.jpg
+image: 2016/crossness/CNV00011.jpg
 tags:
   - photography
 device:

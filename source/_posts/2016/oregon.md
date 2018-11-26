@@ -13,7 +13,7 @@ device:
     model: PAN F PLUS
     manufacturer: Ilford
 date: 2016-07-21 18:09:37
-cover: 02350013.jpg
+image: 2016/oregon/02350013.jpg
 categories:
 - Travels
 - USA

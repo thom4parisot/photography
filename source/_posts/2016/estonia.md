@@ -16,7 +16,7 @@ device:
     manufacturer: Kodak
 date: 2016-03-16
 description:
-cover: CNV00005.jpg
+image: 2016/estonia/CNV00005.jpg
 pictures:
   -
     src: CNV00024.jpg

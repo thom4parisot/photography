@@ -15,7 +15,7 @@ device:
     model: Portra
     manufacturer: Kodak
 date: 2017-04-09 00:00:00
-cover: 39060011.jpg
+image: 2017/rye/39060011.jpg
 pictures:
   - location:
       city: Rye

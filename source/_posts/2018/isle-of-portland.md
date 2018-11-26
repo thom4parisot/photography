@@ -11,7 +11,7 @@ date: 2018-03
 description: |
   A curiosity spotted on Google Maps.
   I did not know we would discover an open air quarry and a huge shingle formation.
-cover: 06890009.jpg
+image: 2018/isle-of-portland/06890009.jpg
 device:
   model: Mat-124G
   manufacturer: Yashika

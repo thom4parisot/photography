@@ -61,7 +61,7 @@ pictures:
       the week of workshops and conversations.
 date: 2017-11
 description:
-cover: 64290007.jpg
+image: 2017/les-angles/64290007.jpg
 ---
 
 A week out in the French Pyrénées to reflect on our work practices with

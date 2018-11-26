@@ -21,7 +21,7 @@ device:
     manufacturer: Kodak
 date: 2017-01-01 00:00:00
 description: ''
-cover: 89150007.jpg
+image: 2017/venice/89150007.jpg
 pictures:
   - location:
       venue: Dorsoduro

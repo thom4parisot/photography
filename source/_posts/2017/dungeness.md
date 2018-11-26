@@ -15,7 +15,7 @@ device:
     model: Portra
     manufacturer: Kodak
 date: 2017-04-10 00:00:00
-cover: 39080001.jpg
+image: 2017/dungeness/39080001.jpg
 pictures:
   - location:
       city: Dungeness
