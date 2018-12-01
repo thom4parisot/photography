@@ -29,7 +29,7 @@
     "hexo-generator-feed": "github:oncletom/hexo-generator-feed#patch-1",
     "hexo-generator-index": "^0.2.0",
     "hexo-renderer-ejs": "^0.3.1",
-    "hexo-renderer-less": "^0.2.0",
+    "hexo-renderer-less": "^1.0.0",
     "hexo-renderer-markdown-it": "^3.4.1",
     "hexo-server": "^0.3.3",
     "hexo-theme-oncletom": "github:oncletom/hexo-theme",
