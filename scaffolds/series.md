@@ -4,7 +4,7 @@ date: {{ date }}
 description: ~
 language: en-GB
 layout: series-default
-cover: ~
+image: ~
 tags:
 - photography
 categories:
