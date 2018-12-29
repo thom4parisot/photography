@@ -40,3 +40,4 @@ db.json
 public
 !node_modules/hexo
 !node_modules/hexo-renderer-react
+_multiconfig.yml
