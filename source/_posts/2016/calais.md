@@ -66,7 +66,7 @@ pictures:
     comment: |
       The ride is now over and we are soon to walk in an unknown place to us.
 
-      We smile at the cops. They seemed relaxed and easy to talk to.
+      We smile at the cops. They seem relaxed and easy to talk to.
 
       Maybe it is easy because we are *not* refugees.
   - location:
@@ -75,7 +75,7 @@ pictures:
       country: France
     src: CNV00003-LR.jpg
     comment: |
-      Someone asks for our passports at the entrance of the camp. They are eager to know for which NGO we work with. Jamies knows. We follow.
+      Someone asks for our passports at the entrance of the camp. They are eager to know which NGO we work for. Jamies knows. We follow.
 
       In a few meters, we are going to become the *strangers*.
   - location:
@@ -102,7 +102,7 @@ pictures:
       country: France
     src: CNV00022-LR.jpg
     comment: |
-      Local authorities built and opened this information center inside the camp. They lately realised no one could speak in kurdish.
+      Local authorities built and opened this information center inside the camp. They lately realised no one could speak in Kurdish.
       The center remains closed since.
 
       Wood planks are missing because they have been taken out and used as heating source during the harsh winter.
@@ -119,7 +119,7 @@ pictures:
     comment: |
       Numbers are to been seen on each shelter.
 
-      There is _no_ registry so the shelter occupation level is one of the only way to know how crowded the camp is.
+      There is _no_ registry so the shelter occupation level is one of the only ways to know how crowded the camp is.
   - location:
       venue: Grande Synthe
       city: Dunkirk
@@ -175,7 +175,7 @@ pictures:
     comment: |
       Refugees and volunteers cook hand in hand, with music playing out loud.
 
-      Refugees hated the food until some of them — who used to be chefs in Iraq — offered their help to cook and to match people habits. It has been a _huge success_.
+      Refugees hated the food until some of them — who used to be chefs in Iraq — offered their help to cook and to match people's habits. It has been a _huge success_.
 
       I feel good to have helped prepare the salad for dinner.
   - location:
@@ -189,7 +189,7 @@ pictures:
 
       They are responsible for the well-being of the camp inhabitants, and very few people take care of them.
 
-      I want to say them a **big thank you**, for all the work, passion and efforts brought into something which looks like an endless battle.
+      I want to say a **big thank you** to them, for all the work, passion and efforts brought into something which looks like an endless battle.
 
       _You certainly changed_ the life of a bunch.
   - comment: |
@@ -256,7 +256,7 @@ pictures:
     src: CNV00029-LR.jpg
     map: calais-jungle.png
     comment: |
-      Journalists get cautiously inspected by the police force.
+      Journalists are carefully inspected by the police force.
 
       Some of them reported to us spending days in jail in atrocious conditions.
   - location:
@@ -279,7 +279,7 @@ pictures:
     comment: |
       These people were so happy to say _bonjour_ to us.
 
-      They probably felt being close to the end of their journey. They would soon being able to reach the UK — a place depicted as a _the_ location to go to start a new life.
+      They probably felt being close to the end of their journey. They would soon be able to reach the UK — a place depicted as _the_ location to go to start a new life.
   - location:
       city: Dover
       country: England
