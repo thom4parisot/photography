@@ -15,6 +15,30 @@ device:
     model: Portra
     manufacturer: Kodak
 pictures:
+  - src: B290516-R1-00-1.jpg
+    date: 2015-06-06
+    location:
+      city: London
+      country: England
+      venue: Walthamstow Marshes
+  - src: CNV00004.jpg
+    date: 2016-02-14
+    location:
+      city: London
+      country: England
+      venue: Walthamstow Marshes
+  - src: CNV00002.jpg
+    date: 2016-04-23
+    location:
+      city: London
+      country: England
+      venue: Walthamstow Marshes
+  - src: 89140003.jpg
+    date: 2016-12-26
+    location:
+      city: London
+      country: England
+      venue: Walthamstow Marshes
   - src: 51460005.jpg
     date: 2017-11-05
     location:
