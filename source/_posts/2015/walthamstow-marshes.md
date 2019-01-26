@@ -1,5 +1,5 @@
 ---
-title: London
+title: Walthamstow Marshes
 language: en-GB
 layout: series-default
 tags:
@@ -52,9 +52,10 @@ pictures:
       country: England
       venue: Walthamstow Marshes
 
-date: 2013-03-01
+date: 2015-06-06
 description: |
-  I lived in London for 5 years. It has been a self-discovery journey through people, places and experiences.
-  I rooted there my love for nature, diversity and pluri-disciplinary approaches.
-image: 2013/london/51460005.jpg
+  I moved in the Tottenham area in early 2015. One my first walk led me to the Lea river, and this particular crossing right after Springfield Park.
+
+  Every time I walked on the Horse Shoe bridge, I felt joy, peace and well rooted in myself.
+image: 2015/walthamstow-marshes/B290516-R1-00-1.jpg
 ---
