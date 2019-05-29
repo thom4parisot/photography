@@ -46,7 +46,7 @@ pictures:
   location:
     region: Brittany
     country: France
-date: 2018-12-29
+date: 2018-07-31
 description: |
   The westernmost island of France's mainland, wild and tumultuous.
 image: 2018/ouessant/03460001.jpg
