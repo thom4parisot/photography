@@ -26,7 +26,7 @@
     "hexo-renderer-less": "^1.0.0",
     "hexo-renderer-markdown-it": "^3.4.1",
     "hexo-server": "^0.3.3",
-    "hexo-theme-oncletom": "github:oncletom/hexo-theme#next",
+    "hexo-theme-oncletom": "github:oncletom/hexo-theme#v2.5.0",
     "markdown-it-attrs": "^2.3.2"
   },
   "devDependencies": {
