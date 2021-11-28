@@ -32,7 +32,11 @@ skip_render:
 new_post_name: :year/:title.md # File name of new posts
 default_layout: series
 titlecase: false # Transform title into titlecase
-external_link: true # Open external links in new tab
+pretty_urls:
+  trailing_html: false
+  trailing_index: false
+external_link:
+  enabled: true
 filename_case: 1
 render_drafts: true
 post_asset_folder: true
@@ -62,7 +66,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: ../node_modules/hexo-theme-oncletom
+theme: oncletom
 layout: photography
 
 nunjucks:

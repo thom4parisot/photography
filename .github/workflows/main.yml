@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
+name: Build and deploy pages
+
+on:
+  push:
+    branches: [ main ]
+    paths-ignore:
+    - README.md
+    - .gitignore
+    - _config.dev.yml
+    - 'bin/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: alwaysdata
+      url: https://oncletom.io/photography/
+    steps:
+    # Setup
+    - uses: actions/checkout@v2
+    - run: apt update && apt install --no-install-recommends --assume-yes graphicsmagick nasm
+    - name: Use Node.js v16
+      uses: actions/setup-node@v2
+      with:
+        node-version: '16'
+        cache: npm
+    - run: npm ci
+
+    # Build
+    - run: npm run build
+      env:
+        NODE_ENV: production
+
+    # Deploy
+    - name: Install SSH key
+      uses: shimataro/ssh-key-action@v2
+      with:
+        key: "${{ secrets.SSH_DEPLOY_KEY }}"
+        known_hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
+    - run: npm run deploy
