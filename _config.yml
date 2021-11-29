@@ -48,6 +48,11 @@ highlight:
   auto_detect: false
   tab_replace:
 
+# Feed
+feed:
+  template:
+  - ./atom.template.xml
+
 # Category & Tag
 default_category: uncategorized
 
