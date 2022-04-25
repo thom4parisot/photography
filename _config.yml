@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: oncletom.io
+title: Thomas Parisot
 subtitle: Photography series about *travels* and *human experience*.
 author: Thomas Parisot
-email: hi@oncletom.io
-default_cover: https://oncletom.io/images/thomas-parisot.jpg
+email: hi@thom4.net
+default_cover: https://thom4.net/images/thomas-parisot.jpg
 language: en-GB
-timezone: Europe/London
+timezone: Europe/Paris
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://oncletom.io/photography
+url: https://thom4.net/photography
 root: /photography/
 permalink: :year/:title/
 permalink_defaults:
@@ -109,7 +109,7 @@ disqus_shortname: oncletom
 graph:
   google_plus:    ~
   facebook:       ~
-  twitter:        oncletom
+  twitter:        thom4parisot
 
 archive_generator:
   per_page: 0
