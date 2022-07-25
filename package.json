@@ -4,7 +4,7 @@
   "description": "My personal photography gallery.",
   "main": "index.js",
   "hexo": {
-    "version": "5.4.0"
+    "version": "5.4.2"
   },
   "scripts": {
     "build": "hexo generate --verbose",
@@ -25,7 +25,7 @@
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-markdown-it": "^5.0.0",
     "hexo-server": "^2.0.0",
-    "hexo-theme-oncletom": "github:oncletom/hexo-theme#semver:^v2",
+    "hexo-theme-thom4": "github:thom4parisot/hexo-theme#semver:^v2",
     "markdown-it-attrs": "^4.1.0"
   },
   "devDependencies": {
