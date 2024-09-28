@@ -15,14 +15,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     environment:
-      name: alwaysdata
-      url: https://oncletom.io/photography/
+      name: live
+      url: https://thom4.net/photography/
     steps:
     # Setup
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - run: sudo apt install --no-install-recommends --assume-yes graphicsmagick nasm
     - name: Use Node.js v16
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v4
       with:
         node-version: '16'
         cache: npm
@@ -34,9 +34,13 @@ jobs:
         NODE_ENV: production
 
     # Deploy
-    - name: Install SSH key
-      uses: shimataro/ssh-key-action@v2
-      with:
-        key: "${{ secrets.SSH_DEPLOY_KEY }}"
-        known_hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
-    - run: npm run deploy
+    - name: Install mc
+      run: |
+        wget --quiet https://dl.min.io/client/mc/release/linux-amd64/mc
+        chmod +x mc
+    - name: Setup mc
+      run: ./mc alias set deuxfleurs https://garage.deuxfleurs.fr "${{ secrets.MINIO_ACCESS_KEY_ID }}" ${{ secrets.MINIO_SECRET_ACCESS_KEY }} --api S3v4
+
+    - name: Transfer
+      if: ${{ contains(github.event.head_commit.message, '[deploy]') }}
+      run: ./mc mirror --preserve --overwrite --summary --quiet ./public/ deuxfleurs/thom4.net/photography/

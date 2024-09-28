@@ -116,11 +116,3 @@ archive_generator:
   yearly: true
   monthly: false
   daily: false
-
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: rsync
-  host: ssh-oncletom.alwaysdata.net
-  user: oncletom
-  root: ~/../www_photography
